@@ -13,22 +13,22 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 
 # Following actions performed:
 
-Identify the output variable.
+* Identify the output variable.
 
-Understand the type of data.
+* Understand the type of data.
 
-Check if there are any biases in your dataset.
+* Check if there are any biases in your dataset.
 
-Check whether all members of the house have the same poverty level.
+* Check whether all members of the house have the same poverty level.
 
-Check if there is a house without a family head.
+* Check if there is a house without a family head.
 
-Set the poverty level of the members and the head of the house same in a family.
+* Set the poverty level of the members and the head of the house same in a family.
 
-Count how many null values are existing in columns.
+* Count how many null values are existing in columns.
 
-Remove null value rows of the target variable.
+* Remove null value rows of the target variable.
 
-Predict the accuracy using random forest classifier.
+* Predict the accuracy using random forest classifier.
 
-Check the accuracy using a random forest with cross-validation.
+* Check the accuracy using a random forest with cross-validation.
